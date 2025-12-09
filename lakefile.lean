@@ -24,9 +24,6 @@ lean_lib «test_problem» {
 
 require mathlib from git "https://github.com/leanprover-community/mathlib4" @ "v4.20.0"
 
-require DeclExtractor from git
-  "https://github.com/imathwy/decl-extractor.git" @ "master"
-
 -- lake exe decl_extractor --progress=30 example.jsonl Reaslib.Basic.EReal
 -- lake exe decl_extractor --progress=30 example.jsonl Mathlib.Analysis.Convex.Basic
 -- lake exe proofstream --progress=30 example.jsonl Mathlib.Analysis.Convex.Basic
