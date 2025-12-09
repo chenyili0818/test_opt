@@ -1,0 +1,13 @@
+import MiniF2F.Minif2fImport
+import MiniF2F.Valid
+import MiniF2F.Test
+import test_problem.problem1
+import test_problem.problem2
+import test_problem.problem3
+import test_problem.problem4
+import test_problem.problem5
+import test_problem.problem6
+import test_problem.problem7
+import test_problem.problem8
+import test_problem.problem9
+import test_problem.problem10
